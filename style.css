@@ -1,8 +1,8 @@
 /* GENERAL */
 body{
-    background: linear-gradient(220.55deg, #4063BC 0%, #6B0013 100%);
-    /*background: rgb(126,139,143);*/
-    /*background: linear-gradient(90deg, rgba(126,139,143,0.875770376509979) 0%, rgba(145,187,230,0.9598039899553571) 0%, rgba(66,187,212,0.6432773793110995) 100%);*/
+    /*background: linear-gradient(220.55deg, #4063BC 0%, #6B0013 100%);*/
+    background: rgb(126,139,143);
+    background: linear-gradient(90deg, rgba(126,139,143,0.875770376509979) 0%, rgba(145,187,230,0.9598039899553571) 0%, rgba(66,187,212,0.6432773793110995) 100%);
 }
 
 /* PERSONAL*/
